@@ -1,6 +1,6 @@
 # Nodejs express api de usuarios jwt
 
-Backend API registro y login de usuarios con JWT con uso de mongoDB, pensada para ser consumida por aplicacion frontend vue-movies https://github.com/ezequielcinalli/vue-movies
+Backend API registro y login de usuarios con JWT con uso de mongoDB, pensada para ser usada como template y consumida por aplicacion frontend.
 ## Pasos a seguir
 1. Instalar dependencias (npm i)
 2. Crear archivo .env con los datos de la mongoDB siguiendo la plantilla de ejemplo
